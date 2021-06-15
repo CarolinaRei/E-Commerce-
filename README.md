@@ -32,5 +32,3 @@ Registo de consumidor por email de referência
 	Em relação à parte do frontend, inserimos um novo campo Email para introduzir o email de referência.
 
 
-
-
